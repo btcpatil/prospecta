@@ -1,0 +1,14 @@
+Prospecta coding Assignment question 2.
+1. How will you tackle the challenge above?
+
+Ans:
+* With the help of bufferReader class read the qestion statement.
+* Split the string where comma is there.
+* Split it again where : is there.
+* Ans store it inside the Map.
+
+2. What type of errors you would you check for?
+
+Ans:
+* file not found error my occur.
+

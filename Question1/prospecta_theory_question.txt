@@ -1,0 +1,9 @@
+Question :what are the key things to consider while creating or consuming api.
+
+Answer :-> 
+Make sure your application is loosely coupled.
+Make sure all the exceptions are handled properly.
+Make sure applied validation on sensitive data.
+Mentain proper documentation so anyone can easily understand the code.
+Use proper method_name and varible_name.
+
